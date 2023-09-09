@@ -22,5 +22,6 @@
 	<project name="eqs-development/proprietary_vendor_motorola_sm8475-common" path="vendor/motorola/sm8475-common" remote="gitl" />
         <project name="eqs-development/android_device_motorola_eqs-kernel" path="device/motorola/eqs-kernel" remote="gith" />
 	<project name="lineageos/android_hardware_motorola" path="hardware/motorola" remote="gith" />
+	<project name="lineageos/android_system_qcom" path="system/qcom" remote="gith" />
 
 </manifest>
